@@ -1,10 +1,10 @@
 {
   "name": "jenkins-demo-app",
   "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "app.js",
+ "scripts": {
+  "start": "node app.js"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Slaltihaditya-23071A12B9/jenkins-demo-app.git"
